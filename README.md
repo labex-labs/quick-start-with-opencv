@@ -11,8 +11,8 @@ In this course, you will learn the basics of OpenCV. You will learn how to read,
 
 ## Scenarios
 
-|   Index | Name                                               | Difficulty   | URL                                                                        |
-|---------|----------------------------------------------------|--------------|----------------------------------------------------------------------------|
+|   Index | Name                                              | Difficulty   | URL                                                                        |
+|---------|---------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |      01 | 📖 Getting Started with Images                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8438'>Start Lab</a>         |
 |      02 | 📖 Basic Operations on Image                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/67174'>Start Lab</a>        |
 |      03 | 📖 Getting Started with Videos                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/14766'>Start Lab</a>        |
