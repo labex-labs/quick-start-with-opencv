@@ -11,7 +11,7 @@ In this course, you will learn the basics of OpenCV. You will learn how to read,
 
 ## Scenarios
 
-|   Index | Name                                              | Difficulty   | URL                                                                        |
+|   Index | Name                                              | Difficulty   | Practice                                                                   |
 |---------|---------------------------------------------------|--------------|----------------------------------------------------------------------------|
 |      01 | 📖 Getting Started with Images                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/8438'>Start Lab</a>         |
 |      02 | 📖 Basic Operations on Image                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/67174'>Start Lab</a>        |
@@ -27,4 +27,9 @@ In this course, you will learn the basics of OpenCV. You will learn how to read,
 |      12 | 🎯 Lines and Circles Detection                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13393'>Start Challenge</a>  |
 |      13 | 🎯 Image Augmentation Class                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/107208'>Start Challenge</a> |
 |      14 | 🎯 Implementing OpenCV Edge Detection              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/13391'>Start Challenge</a>  |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
 
