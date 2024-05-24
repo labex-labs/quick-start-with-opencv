@@ -1,6 +1,6 @@
 # Quick Start with OpenCV
 
-![Quick Start with OpenCV](https://cover-creator.labex.io/quick-start-with-opencv.png)
+![Quick Start with OpenCV](https://cover-creator.appbot.io/quick-start-with-opencv.png)
 
 In this course, you will learn the basics of OpenCV. You will learn how to read, write, and display images and videos. You will also learn how to draw different shapes on images and videos.
 
