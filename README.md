@@ -27,22 +27,22 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                              | Difficulty   | Practice                                                                                                                              |
-|---------|---------------------------------------------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Getting Started with Images                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/opencv-getting-started-with-images-8438'>Start Lab</a>                            |
-|      02 | 📖 Basic Operations on Image                       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/opencv-basic-operations-on-image-67174'>Start Lab</a>                             |
-|      03 | 📖 Getting Started with Videos                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/opencv-getting-started-with-videos-14766'>Start Lab</a>                           |
-|      04 | 🎯 Image Histogram Statistics                      | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/matplotlib-image-histogram-statistics-259076'>Start Challenge</a>                 |
-|      05 | 🎯 Find Image Edges by Gradients                   | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/opencv-find-image-edges-by-gradients-259151'>Start Challenge</a>                  |
-|      06 | 🎯 Visualizing Image Object Detection Annotations  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/opencv-visualizing-image-object-detection-annotations-136088'>Start Challenge</a> |
-|      07 | 📖 Arithmetic Operations on Images                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/opencv-arithmetic-operations-on-images-38502'>Start Lab</a>                       |
-|      08 | 📖 Lab Working with Color Spaces                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/opencv-lab-working-with-color-spaces-21417'>Start Lab</a>                         |
-|      09 | 🎯 Play Images with Color Spaces                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/opencv-play-images-with-color-spaces-8836'>Start Challenge</a>                    |
-|      10 | 🎯 Template Matching and Drawing Results           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/opencv-template-matching-and-drawing-results-9683'>Start Challenge</a>            |
-|      11 | 🎯 Morphological Image Transformations with OpenCV | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/opencv-morphological-image-transformations-with-opencv-9677'>Start Challenge</a>  |
-|      12 | 🎯 Lines and Circles Detection                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/opencv-lines-and-circles-detection-13393'>Start Challenge</a>                     |
-|      13 | 🎯 Image Augmentation Class                        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/opencv-image-augmentation-class-107208'>Start Challenge</a>                       |
-|      14 | 🎯 Implementing OpenCV Edge Detection              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/opencv-implementing-opencv-edge-detection-13391'>Start Challenge</a>              |
+|   Index | Name                                              | Difficulty   | Practice                                                                                                                         |
+|---------|---------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 📖 Getting Started with Images                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/opencv-getting-started-with-images-8438'>Start Lab</a>                       |
+|      02 | 📖 Basic Operations on Image                       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/opencv-basic-operations-on-image-67174'>Start Lab</a>                        |
+|      03 | 📖 Getting Started with Videos                     | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/opencv-getting-started-with-videos-14766'>Start Lab</a>                      |
+|      04 | 🎯 Image Histogram Statistics                      | ★☆☆          | <a target='_blank' href='https://labex.io/labs/matplotlib-image-histogram-statistics-259076'>Start Challenge</a>                 |
+|      05 | 🎯 Find Image Edges by Gradients                   | ★★☆          | <a target='_blank' href='https://labex.io/labs/opencv-find-image-edges-by-gradients-259151'>Start Challenge</a>                  |
+|      06 | 🎯 Visualizing Image Object Detection Annotations  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/opencv-visualizing-image-object-detection-annotations-136088'>Start Challenge</a> |
+|      07 | 📖 Arithmetic Operations on Images                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/opencv-arithmetic-operations-on-images-38502'>Start Lab</a>                  |
+|      08 | 📖 Lab Working with Color Spaces                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/opencv-lab-working-with-color-spaces-21417'>Start Lab</a>                    |
+|      09 | 🎯 Play Images with Color Spaces                   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/opencv-play-images-with-color-spaces-8836'>Start Challenge</a>                    |
+|      10 | 🎯 Template Matching and Drawing Results           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/opencv-template-matching-and-drawing-results-9683'>Start Challenge</a>            |
+|      11 | 🎯 Morphological Image Transformations with OpenCV | ★★☆          | <a target='_blank' href='https://labex.io/labs/opencv-morphological-image-transformations-with-opencv-9677'>Start Challenge</a>  |
+|      12 | 🎯 Lines and Circles Detection                     | ★☆☆          | <a target='_blank' href='https://labex.io/labs/opencv-lines-and-circles-detection-13393'>Start Challenge</a>                     |
+|      13 | 🎯 Image Augmentation Class                        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/opencv-image-augmentation-class-107208'>Start Challenge</a>                       |
+|      14 | 🎯 Implementing OpenCV Edge Detection              | ★☆☆          | <a target='_blank' href='https://labex.io/labs/opencv-implementing-opencv-edge-detection-13391'>Start Challenge</a>              |
 
 ## More
 
