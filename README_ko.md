@@ -33,24 +33,24 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 |   인덱스 | 이름                                               | 난이도   | 연습                                                                                                                          |
 |----------|----------------------------------------------------|----------|-------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 Getting Started with Images                     | ★★★      | <a target='_blank' href='https://labex.io/ko/tutorials/opencv-getting-started-with-images-8438'>실습 시작</a>                 |
-|       02 | 📖 Basic Operations on Image                       | ★★☆      | <a target='_blank' href='https://labex.io/ko/tutorials/opencv-basic-operations-on-image-67174'>실습 시작</a>                  |
-|       03 | 📖 Getting Started with Videos                     | ★★☆      | <a target='_blank' href='https://labex.io/ko/tutorials/opencv-getting-started-with-videos-14766'>실습 시작</a>                |
-|       04 | 🎯 Image Histogram Statistics                      | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/matplotlib-image-histogram-statistics-259076'>도전 시작</a>                 |
-|       05 | 🎯 Find Image Edges by Gradients                   | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/numpy-find-image-edges-by-gradients-259151'>도전 시작</a>                   |
-|       06 | 🎯 Visualizing Image Object Detection Annotations  | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/opencv-visualizing-image-object-detection-annotations-136088'>도전 시작</a> |
-|       07 | 📖 Arithmetic Operations on Images                 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/opencv-arithmetic-operations-on-images-38502'>실습 시작</a>            |
-|       08 | 📖 Lab Working with Color Spaces                   | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/opencv-lab-working-with-color-spaces-21417'>실습 시작</a>              |
-|       09 | 🎯 Play Images with Color Spaces                   | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/opencv-play-images-with-color-spaces-8836'>도전 시작</a>                    |
-|       10 | 🎯 Template Matching and Drawing Results           | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/opencv-template-matching-and-drawing-results-9683'>도전 시작</a>            |
-|       11 | 🎯 Morphological Image Transformations with OpenCV | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/opencv-morphological-image-transformations-with-opencv-9677'>도전 시작</a>  |
-|       12 | 🎯 Lines and Circles Detection                     | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/opencv-lines-and-circles-detection-13393'>도전 시작</a>                     |
-|       13 | 🎯 Image Augmentation Class                        | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/opencv-image-augmentation-class-107208'>도전 시작</a>                       |
-|       14 | 🎯 Implementing OpenCV Edge Detection              | ★☆☆      | <a target='_blank' href='https://labex.io/ko/labs/opencv-implementing-opencv-edge-detection-13391'>도전 시작</a>              |
+|       01 | 📖 Getting Started with Images                     | 고급     | <a target='_blank' href='https://labex.io/ko/tutorials/opencv-getting-started-with-images-8438'>실습 시작</a>                 |
+|       02 | 📖 Basic Operations on Image                       | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/opencv-basic-operations-on-image-67174'>실습 시작</a>                  |
+|       03 | 📖 Getting Started with Videos                     | 중급     | <a target='_blank' href='https://labex.io/ko/tutorials/opencv-getting-started-with-videos-14766'>실습 시작</a>                |
+|       04 | 🎯 Image Histogram Statistics                      | 초급     | <a target='_blank' href='https://labex.io/ko/labs/matplotlib-image-histogram-statistics-259076'>도전 시작</a>                 |
+|       05 | 🎯 Find Image Edges by Gradients                   | 초급     | <a target='_blank' href='https://labex.io/ko/labs/numpy-find-image-edges-by-gradients-259151'>도전 시작</a>                   |
+|       06 | 🎯 Visualizing Image Object Detection Annotations  | 초급     | <a target='_blank' href='https://labex.io/ko/labs/opencv-visualizing-image-object-detection-annotations-136088'>도전 시작</a> |
+|       07 | 📖 Arithmetic Operations on Images                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/opencv-arithmetic-operations-on-images-38502'>실습 시작</a>            |
+|       08 | 📖 Lab Working with Color Spaces                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/opencv-lab-working-with-color-spaces-21417'>실습 시작</a>              |
+|       09 | 🎯 Play Images with Color Spaces                   | 초급     | <a target='_blank' href='https://labex.io/ko/labs/opencv-play-images-with-color-spaces-8836'>도전 시작</a>                    |
+|       10 | 🎯 Template Matching and Drawing Results           | 초급     | <a target='_blank' href='https://labex.io/ko/labs/opencv-template-matching-and-drawing-results-9683'>도전 시작</a>            |
+|       11 | 🎯 Morphological Image Transformations with OpenCV | 초급     | <a target='_blank' href='https://labex.io/ko/labs/opencv-morphological-image-transformations-with-opencv-9677'>도전 시작</a>  |
+|       12 | 🎯 Lines and Circles Detection                     | 초급     | <a target='_blank' href='https://labex.io/ko/labs/opencv-lines-and-circles-detection-13393'>도전 시작</a>                     |
+|       13 | 🎯 Image Augmentation Class                        | 초급     | <a target='_blank' href='https://labex.io/ko/labs/opencv-image-augmentation-class-107208'>도전 시작</a>                       |
+|       14 | 🎯 Implementing OpenCV Edge Detection              | 초급     | <a target='_blank' href='https://labex.io/ko/labs/opencv-implementing-opencv-edge-detection-13391'>도전 시작</a>              |
 
 ## 더 보기
 
-- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- 🔗 [Machine Learning 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Machine Learning 무료 튜토리얼](https://github.com/labex-labs/ml-free-tutorials)
 
