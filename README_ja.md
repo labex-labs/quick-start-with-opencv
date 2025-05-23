@@ -33,24 +33,24 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 |   インデックス | 名前                                    | 難易度   | 練習                                                                                                                                 |
 |----------------|-----------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 画像の始め方                         | ★★★      | <a target='_blank' href='https://labex.io/ja/tutorials/opencv-getting-started-with-images-8438'>ラボを開始</a>                       |
-|             02 | 📖 画像の基本操作                       | ★★☆      | <a target='_blank' href='https://labex.io/ja/tutorials/opencv-basic-operations-on-image-67174'>ラボを開始</a>                        |
-|             03 | 📖 ビデオの使い方入門                   | ★★☆      | <a target='_blank' href='https://labex.io/ja/tutorials/opencv-getting-started-with-videos-14766'>ラボを開始</a>                      |
-|             04 | 🎯 画像ヒストグラム統計                 | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/matplotlib-image-histogram-statistics-259076'>チャレンジを開始</a>                 |
-|             05 | 🎯 グラデーションによる画像のエッジ検出 | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/numpy-find-image-edges-by-gradients-259151'>チャレンジを開始</a>                   |
-|             06 | 🎯 画像物体検出アノテーションの可視化   | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/opencv-visualizing-image-object-detection-annotations-136088'>チャレンジを開始</a> |
-|             07 | 📖 画像における算術演算                 | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/opencv-arithmetic-operations-on-images-38502'>ラボを開始</a>                  |
-|             08 | 📖 カラースペースを使った実験           | ★☆☆      | <a target='_blank' href='https://labex.io/ja/tutorials/opencv-lab-working-with-color-spaces-21417'>ラボを開始</a>                    |
-|             09 | 🎯 色空間で画像を操作する               | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/opencv-play-images-with-color-spaces-8836'>チャレンジを開始</a>                    |
-|             10 | 🎯 テンプレートマッチングと結果の描画   | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/opencv-template-matching-and-drawing-results-9683'>チャレンジを開始</a>            |
-|             11 | 🎯 OpenCV を使った画像の形態学的変換    | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/opencv-morphological-image-transformations-with-opencv-9677'>チャレンジを開始</a>  |
-|             12 | 🎯 線と円の検出                         | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/opencv-lines-and-circles-detection-13393'>チャレンジを開始</a>                     |
-|             13 | 🎯 画像拡張クラス                       | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/opencv-image-augmentation-class-107208'>チャレンジを開始</a>                       |
-|             14 | 🎯 OpenCV を用いたエッジ検出の実装      | ★☆☆      | <a target='_blank' href='https://labex.io/ja/labs/opencv-implementing-opencv-edge-detection-13391'>チャレンジを開始</a>              |
+|             01 | 📖 画像の始め方                         | 上級     | <a target='_blank' href='https://labex.io/ja/tutorials/opencv-getting-started-with-images-8438'>ラボを開始</a>                       |
+|             02 | 📖 画像の基本操作                       | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/opencv-basic-operations-on-image-67174'>ラボを開始</a>                        |
+|             03 | 📖 ビデオの使い方入門                   | 中級     | <a target='_blank' href='https://labex.io/ja/tutorials/opencv-getting-started-with-videos-14766'>ラボを開始</a>                      |
+|             04 | 🎯 画像ヒストグラム統計                 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/matplotlib-image-histogram-statistics-259076'>チャレンジを開始</a>                 |
+|             05 | 🎯 グラデーションによる画像のエッジ検出 | 初級     | <a target='_blank' href='https://labex.io/ja/labs/numpy-find-image-edges-by-gradients-259151'>チャレンジを開始</a>                   |
+|             06 | 🎯 画像物体検出アノテーションの可視化   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/opencv-visualizing-image-object-detection-annotations-136088'>チャレンジを開始</a> |
+|             07 | 📖 画像における算術演算                 | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/opencv-arithmetic-operations-on-images-38502'>ラボを開始</a>                  |
+|             08 | 📖 カラースペースを使った実験           | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/opencv-lab-working-with-color-spaces-21417'>ラボを開始</a>                    |
+|             09 | 🎯 色空間で画像を操作する               | 初級     | <a target='_blank' href='https://labex.io/ja/labs/opencv-play-images-with-color-spaces-8836'>チャレンジを開始</a>                    |
+|             10 | 🎯 テンプレートマッチングと結果の描画   | 初級     | <a target='_blank' href='https://labex.io/ja/labs/opencv-template-matching-and-drawing-results-9683'>チャレンジを開始</a>            |
+|             11 | 🎯 OpenCV を使った画像の形態学的変換    | 初級     | <a target='_blank' href='https://labex.io/ja/labs/opencv-morphological-image-transformations-with-opencv-9677'>チャレンジを開始</a>  |
+|             12 | 🎯 線と円の検出                         | 初級     | <a target='_blank' href='https://labex.io/ja/labs/opencv-lines-and-circles-detection-13393'>チャレンジを開始</a>                     |
+|             13 | 🎯 画像拡張クラス                       | 初級     | <a target='_blank' href='https://labex.io/ja/labs/opencv-image-augmentation-class-107208'>チャレンジを開始</a>                       |
+|             14 | 🎯 OpenCV を用いたエッジ検出の実装      | 初級     | <a target='_blank' href='https://labex.io/ja/labs/opencv-implementing-opencv-edge-detection-13391'>チャレンジを開始</a>              |
 
 ## その他
 
-- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Machine Learning Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- 🔗 [Machine Learning プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Machine Learning プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Machine Learning 無料チュートリアル](https://github.com/labex-labs/ml-free-tutorials)
 
